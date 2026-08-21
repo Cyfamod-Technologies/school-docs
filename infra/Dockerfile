@@ -1,7 +1,7 @@
 # --- Build stage -----------------------------------------------------------
 # Docusaurus builds a static site into build/ - no server runtime needed,
 # same shape as the Next.js static-export sites in the other repos.
-FROM node:20-alpine AS builder
+FROM node:22-alpine AS builder
 
 WORKDIR /app
 
