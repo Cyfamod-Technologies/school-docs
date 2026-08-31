@@ -72,3 +72,6 @@ Made with ❤️ by the Cyfamod Team -->
 [Website](https://bmp.com.ng) • [Documentation](https://bmp.com.ng) • [GitHub](https://github.com/Cyfamod-Technologies)
 
 </div>
+
+
+<!-- Security scan triggered at 2026-08-31 18:22:59 -->
